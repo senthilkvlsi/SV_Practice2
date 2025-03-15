@@ -1,0 +1,25 @@
+                  0, going to wait on process timer          10, for process           0
+                   0, going to wait on process timer          20, for process           1
+                   0, going to wait on process timer          30, for process           2
+                   0, going to wait on process timer          40, for process           3
+[0]All process started
+[1] Status of proc 1 = SUSPENDED
+                  10, Done waiting on process timer          10, for process           0
+                  30, Done waiting on process timer          30, for process           2
+                  40, Done waiting on process timer          40, for process           3
+[40] Status of proc 1 = SUSPENDED
+[40] Status of proc 1 = WAITING
+                  60, Done waiting on process timer          20, for process           1
+[60] Killing all process
+[60] Killed all process
+Status of all processes
+[62] Status of proc 0 = FINISHED
+[62] Status of proc 1 = FINISHED
+[62] Status of proc 2 = FINISHED
+[62] Status of proc 3 = FINISHED
+$finish called from file "testbench.sv", line 62.
+$finish at simulation time                   62
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 62 ns
+CPU Time:      0.350 seconds;       Data structure size:   0.0Mb
+Sat Mar 15 11:50:12 2025
