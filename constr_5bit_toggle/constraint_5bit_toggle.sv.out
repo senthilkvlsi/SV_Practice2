@@ -1,0 +1,17 @@
+CPU time: .350 seconds to compile + .349 seconds to elab + .329 seconds to link
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP2_Full64; Runtime version U-2023.03-SP2_Full64;  Mar 29 02:26 2025
+word_5bits_toggled=10111100
+word_5bits_toggled=10100011,temp_value_to_store_word_2=10100011
+word_5bits_toggled=01001111
+word_5bits_toggled=11010110,temp_value_to_store_word_2=11010110
+word_5bits_toggled=01100011
+word_5bits_toggled=00000001,temp_value_to_store_word_2=00000001
+word_5bits_toggled=11010111
+word_5bits_toggled=11001001,temp_value_to_store_word_2=11001001
+word_5bits_toggled=10100010
+word_5bits_toggled=00101101,temp_value_to_store_word_2=00101101
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ns
+CPU Time:      0.410 seconds;       Data structure size:   0.0Mb
